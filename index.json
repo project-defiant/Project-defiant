@@ -2,11 +2,13 @@
   {
     "title": "01-introduction.md",
     "tags": ["introduction", "nextjs", "remarkjs"],
-    "date": "2023-02-01"
+    "date": "2023-02-01",
+    "description": "Summary of my own story"
   },
   {
     "title": "02-octokit_test.md",
     "tags": ["tutorial", "github", "octokit", "restAPI"],
-    "date": "2023-02-018"
+    "date": "2023-02-018",
+    "description": "How to use octokit package to fetch data from github?"
   }
 ]
