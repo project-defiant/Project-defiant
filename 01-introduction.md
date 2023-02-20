@@ -1,7 +1,6 @@
 # Project defiant 001
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-![some other image](https://github.com/PROJECT-DEFIANT/Project-defiant/blob/main/images/bioinfo.jpg)
+![some other image](https://github.com/PROJECT-DEFIANT/Project-defiant/blob/b7cb53c20a75c0ce544763d2bb16f0c0772d0241/images/bioinfo.jpg)
 
 ## Introduction
 
