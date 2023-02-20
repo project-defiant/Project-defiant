@@ -1,5 +1,8 @@
 # Project defiant 001
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![some other image](https://github.com/PROJECT-DEFIANT/Project-defiant/images/bioinfo.jpg)
+
 ## Introduction
 
 My name is Szymon and this is my story.
