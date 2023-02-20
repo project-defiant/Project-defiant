@@ -1,6 +1,6 @@
 # Project defiant 001
 
-![some other image](images/bioinfo.jpg)
+![some other image](https://github.com/PROJECT-DEFIANT/Project-defiant/blob/main/images/bioinfo.jpg)
 
 ## Introduction
 
@@ -28,3 +28,7 @@ During my final year (2019) I had started learning bioinformatics for the course
 After the studies I have moved back to my place of origin. I have started working in Children's Health Memorial Institute in Warsaw as a junior assistant biotechnologist in genetics department. My main tasks was to uncover genetic background of rare disease occurring in patients DNA in polish population. This enabled me to understand the **rare genetic variant classification** based on ACMG guidelines as well as skills in usage of NCBI ClinVar, SNP, OMIM, OrphaNet, HGMD, LOVD, UniProt, gnomAD, Reactome, HPO and other genetic databases. In my day-to-day job I was analyzing BAM and VCF files coming from NGS target sequencing as well as from Whole exome sequencing, fastqc statistics and cnv variants from CNVkit. As an aspiring bioinformatitian I was responsible for meritorious background of my team of geneticists and lab analysts in the method of target enrichment sequencing.
 
 I was also responsible for writing a grant for IT infrastructure to the Ministry of Education and Science, which obtained financing for purchase of a disk array and computing servers for in house genomics platform. During that period I had learned how to work with clients (as we were a laboratory we had to deal with patients and doctors constantly).
+
+### Still learning
+
+In late 2019 I had started postgraduate studies in **OMICS Data Science** - course about large scale s
