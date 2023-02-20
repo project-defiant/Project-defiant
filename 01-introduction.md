@@ -31,4 +31,25 @@ I was also responsible for writing a grant for IT infrastructure to the Ministry
 
 ### Still learning
 
-In late 2019 I had started postgraduate studies in **OMICS Data Science** - course about large scale s
+In late 2019 I had started postgraduate studies in **OMICS Data Science** - course about large scale sequencing data analysis in Interdisciplinary Centre of Mathematical and Computational Modelling at University of Warsaw. This is a time when I also started HEAP Metagenomics Pipelines internship in the same location.
+During that period I have started learning how to code and refreshed my knowledge in python programming language. After the course I was able to code in python and R, started programming in C and pyspark as well as working oh high performance computing cluster with lustre filesystem and slurm queue task ecution plan (Okeanos). I had also learned about the multiomics and how to apply bioconductor packages to miRNA and epigenomics analysis. I had my first contact with machine learning and deep learning in the matter of metagenomics analysis and mnist classifier.
+
+### The MNM period
+
+I was fortunate enough to work with unique and amazing professionals in MNM diagnostics by remote. This was a total game changer for me, as I developed my skills in package development in R and python, learn many technologies like docker, git, deltalake, aws s3 storage, seaborn for visualization, dvc, automatic testing with pytest, using flask to host documentation websites, Writing nextflow pipelines. The biggest challenge was to use pyspark to increase the efficiency in processing of genomic vcf files with the help of deltalake and glow package. In MNM I used to work in test driven development, for day to day tasks I was using slack (communication), github (codebase) and google docs and sheets (documentation) and jira (time & task management). I was responsible for developing tools for analysis of the Whole Genome Sequencing data, developing pipeline for Panel sequencing and packages for extracting features from tumor descriptors. In MNM I had a chance to boost my software developer skills in many areas, beginning from how to handle large projects, working with cloud native kubernetes solutions, how to structure and maintain codebase keeping in mind rapidly changing business requirements for a startup.
+
+That led me to start my own business, which I am currently developing - Project Defiant, where I want to utilize all my knowledge from science (genomics) and tech (software development) to achieve great things by combining both areas.
+
+### Still learning v2
+
+During the MNM period I was constantly busting my skills by learning new programming languages, web development and more. The whole list of technologies that I am familiar with can be found in the timeline section.
+
+### For business
+
+If my story sounds interesting to You and You want to cooperate in some area, feel free to email me at **szymonszyszkowski@gmail.com**
+
+### For future
+
+This was Project Defiant @ Szymon Szyszkowski
+
+I am going to do some great stuff in the future and put it in here, so be sure to check out my blog for the next posts, otherwise Cześć !
