@@ -1,6 +1,6 @@
 # Project defiant 001
 
-![some other image](https://github.com/PROJECT-DEFIANT/Project-defiant/images/bioinfo.jpg)
+![some other image](https://github.com/PROJECT-DEFIANT/Project-defiant/blob/main/images/bioinfo.jpg)
 
 ## Introduction
 
