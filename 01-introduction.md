@@ -1,4 +1,4 @@
-# Project defiant 001
+# Project defiant
 
 ![some other image](https://github.com/PROJECT-DEFIANT/Project-defiant/blob/main/images/bioinfo.jpg?raw=true)
 
@@ -38,6 +38,10 @@ During that period I have started learning how to code and refreshed my knowledg
 I was fortunate enough to work with unique and amazing professionals in MNM diagnostics by remote. This was a total game changer for me, as I developed my skills in **package development in R and python**, learn many technologies like **docker, git, aws s3 storage, seaborn for visualization, dvc**, automatic testing with **pytest**, using **flask** to host documentation websites, Writing **nextflow pipelines**. The biggest challenge was to use **pyspark to increase the efficiency in processing of genomic vcf files with the help of deltalake and glow package**. In MNM I used to work in **test driven development**, for day to day tasks I was using **slack (communication), github (codebase), google docs and sheets (documentation), jira (time & task management)**. I was responsible for developing **tools for analysis of the Whole Genome Sequencing data**, developing **pipeline for Panel sequencing** and packages for **extracting genomic features from tumor descriptors**. In MNM I had a chance to boost my software developer skills in many areas, beginning from how to handle large projects, working with **cloud native kubernetes solutions**, how to structure and maintain codebase keeping in mind rapidly changing business requirements for a startup.
 
 That led me to start my own business, which I am currently developing - **Project Defiant**, where I want to utilize all my knowledge from science (genomics) and tech (software development) to achieve great things by combining both areas.
+
+### Project Defiant
+
+Right now I am focused on developing my brand, portfolio and contact network, to increase the ability to create impactful projects!
 
 ### Still learning v2
 
