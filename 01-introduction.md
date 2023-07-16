@@ -47,6 +47,11 @@ Right now I am focused on developing my brand, portfolio and contact network, to
 
 During the MNM period I was constantly busting my skills by learning new programming languages (Rust, Scala), **web development** and more. The whole list of technologies that I am familiar with can be found in the timeline section.
 
+
+### QuartzBio
+
+Right now I am a software develper at QuartzBio, part of Precision For Medicine, where I am working under the Virtual Sample Inventory project. The project is based
+mainy in R language, I am gaininig new experience in maintaining (mostly debugging) and refactoring old code along with scheduling new solutions and expanding the test suite.
 ### For business
 
 If my story sounds interesting to You and You want to cooperate in some area, feel free to email me at **szymonszyszkowski@gmail.com**

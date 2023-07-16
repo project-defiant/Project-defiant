@@ -7,8 +7,15 @@
   },
   {
     "title": "02-octokit_test.md",
-    "tags": ["tutorial", "github", "octokit", "restAPI"],
+    "tags": ["tutorial", "github", "octokit", "restapi"],
     "date": "2023-02-018",
-    "description": "How to use octokit package to fetch data from github?"
+    "description": "how to use octokit package to fetch data from github?"
+  },
+
+  {
+    "title": "03-JWT-tokens.md",
+    "tags": ["first-look", "JWT", "authentication"],
+    "date": "2023-07-12",
+    "description": "Some initial concepts on how JWT works."
   }
 ]
